@@ -1,0 +1,10 @@
+shci.c:39:18:SHCI_C2_FUS_Get_State	32	static
+shci.c:61:18:SHCI_C2_BLE_Init	40	static
+shci.c:80:18:SHCI_C2_THREAD_Init	32	static
+shci.c:98:18:SHCI_C2_DEBUG_Init	40	static
+shci.c:116:18:SHCI_C2_FLASH_Erase_Activity	40	static
+shci.c:135:18:SHCI_C2_CONCURRENT_SetMode	40	static
+shci.c:153:18:SHCI_C2_FLASH_StoreData	40	static
+shci.c:171:18:SHCI_C2_FLASH_EraseData	40	static
+shci.c:189:18:SHCI_C2_RADIO_AllowLowPower	40	static
+shci.c:207:18:SHCI_C2_MAC_802_15_4_Init	32	static

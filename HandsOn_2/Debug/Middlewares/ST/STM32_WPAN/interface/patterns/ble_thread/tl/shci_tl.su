@@ -1,0 +1,8 @@
+shci_tl.c:59:6:shci_init	16	static
+shci_tl.c:71:6:shci_user_evt_proc	24	static
+shci_tl.c:105:6:shci_resume_flow	8	static
+shci_tl.c:118:6:shci_send	16	static
+shci_tl.c:136:13:TlInit	32	static
+shci_tl.c:161:13:Cmd_SetStatus	16	static
+shci_tl.c:183:13:TlCmdEvtReceived	16	static
+shci_tl.c:190:13:TlUserEvtReceived	16	static

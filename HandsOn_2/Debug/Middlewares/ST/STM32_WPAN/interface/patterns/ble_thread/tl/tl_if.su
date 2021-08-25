@@ -1,0 +1,2 @@
+tl_if.c:24:6:hci_register_io_bus	16	static
+tl_if.c:33:6:shci_register_io_bus	16	static

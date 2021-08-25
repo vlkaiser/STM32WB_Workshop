@@ -1,0 +1,9 @@
+hci_tl.c:66:6:hci_init	16	static
+hci_tl.c:78:6:hci_user_evt_proc	24	static
+hci_tl.c:117:6:hci_resume_flow	8	static
+hci_tl.c:130:5:hci_send_req	40	static
+hci_tl.c:189:13:TlInit	32	static
+hci_tl.c:218:27:CmdGetStatus	4	static
+hci_tl.c:223:13:SendCmd	16	static
+hci_tl.c:234:13:Cmd_SetStatus	16	static
+hci_tl.c:256:13:TlEvtReceived	16	static

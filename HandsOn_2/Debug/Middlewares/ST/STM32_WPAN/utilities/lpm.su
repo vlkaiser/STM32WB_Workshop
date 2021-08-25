@@ -1,0 +1,5 @@
+lpm.c:44:6:LPM_SetConf	16	static
+lpm.c:52:6:LPM_SetOffMode	32	static,ignoring_inline_asm
+lpm.c:73:6:LPM_SetStopMode	32	static,ignoring_inline_asm
+lpm.c:94:6:LPM_EnterModeSelected	8	static
+lpm.c:130:20:LPM_ReadModeSel	24	static,ignoring_inline_asm

@@ -1,0 +1,7 @@
+stm32wbxx_ll_pwr.h:473:22:LL_PWR_SetPowerMode	16	static
+stm32wbxx_ll_pwr.h:1891:22:LL_PWR_ClearFlag_WU	4	static
+stm32wbxx_ll_cortex.h:310:22:LL_LPM_EnableSleep	4	static
+stm32wbxx_ll_cortex.h:321:22:LL_LPM_EnableDeepSleep	4	static
+hw_lpm.c:28:6:HW_LPM_SleepMode	8	static,ignoring_inline_asm
+hw_lpm.c:44:6:HW_LPM_StopMode	16	static,ignoring_inline_asm
+hw_lpm.c:62:6:HW_LPM_OffMode	16	static,ignoring_inline_asm

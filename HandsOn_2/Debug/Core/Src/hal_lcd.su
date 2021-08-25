@@ -1,0 +1,15 @@
+hal_lcd.c:9:6:LCD_Init	8	static
+hal_lcd.c:14:6:LCD_PrintTest	32	static
+hal_lcd.c:46:6:LCD_Print1stLine	24	static
+hal_lcd.c:61:6:LCD_Print2ndLine	24	static
+hal_lcd.c:78:6:LCD_Print	24	static
+hal_lcd.c:101:6:LCD_PrintLabel	24	static
+hal_lcd.c:109:6:LCD_THREAD_PrintRLOC	24	static
+hal_lcd.c:118:6:LCD_THREAD_PrintPanId	24	static
+hal_lcd.c:127:6:LCD_THREAD_PrintRole	24	static
+hal_lcd.c:136:6:LCD_BLE_PrintLocalName	24	static
+hal_lcd.c:144:6:LCD_BLE_PrintLogo	16	static
+hal_lcd.c:158:6:LCD_BLE_PrintStatus	24	static
+hal_lcd.c:167:6:LCD_BLE_HRS_PrintBPM	24	static
+hal_lcd.c:176:6:LCD_BLE_HTS_PrintTemperature	24	static
+hal_lcd.c:187:6:LCD_BLE_TPS_PrintRSSI	24	static
